@@ -29,7 +29,6 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ## activity_main.xml:
 ```
-<
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
 xmlns:tools="http://schemas.android.com/tools"
