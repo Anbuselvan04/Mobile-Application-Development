@@ -35,6 +35,7 @@ Registration Number : 212221040013
 
 ## activity_main.xml :
 
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -70,9 +71,9 @@ Registration Number : 212221040013
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 ## Main_Activity.java : 
-
+```
 package com.example.experiment1;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -126,7 +127,7 @@ public class MainActivity extends AppCompatActivity {
         t.show();
     }
 }
-
+```
 ## OUTPUT
 
 ![Exp_1 AM](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/21c321de-dcbe-4504-bd3d-75702e57ba15)
