@@ -27,12 +27,6 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 
-Program to print the text “Hello World”.
-
-Developed by : Anbuselvan A
-
-Registration Number : 212221040013
-
 ## activity_main.xml :
 
 ```
@@ -128,6 +122,12 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+Program to print the text “Hello World”.
+
+Developed by : Anbuselvan A
+
+Registration Number : 212221040013
+
 ## OUTPUT
 
 ![Exp_1 AM](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/21c321de-dcbe-4504-bd3d-75702e57ba15)
